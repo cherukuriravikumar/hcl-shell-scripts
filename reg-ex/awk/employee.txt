@@ -3,3 +3,5 @@ Naga  manager IT 50000
 Mahe  teamled IT 30000
 Bhar  TL      IT 25000
 Kuma  manager IT 30000
+ravikumar TL IT 40000
+maheshchowdary TL IT 100000
